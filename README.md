@@ -2,7 +2,7 @@
 
 A small Python project that turns a market topic into a **sourced competitor table** and a **one-page brief**, mostly on autopilot.
 
-I'm a student and built this to learn how AI automation works in practice. I picked **counter-drone detection in Poland** as the test topic because it's a hot market and there's a lot of public info to work with.
+I'm a student and built this to learn how AI automation works in practice. I picked **counter-drone detection in {country}** as the test topic because it's a hot market and there's a lot of public info to work with.
 
 ## What it does
 
